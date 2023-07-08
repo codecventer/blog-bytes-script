@@ -1,0 +1,23 @@
+{
+  "name": "gpt-app",
+  "version": "1.0.0",
+  "description": "This JavaScript script utilizes ChatGPT for generating a blog post, Unsplash for fetching relevant images, and Sanity.io for content management. The post is then automatically shared on both Twitter and Reddit, streamlining the entire process of content creation and distribution.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christiaan Venter",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.321.1",
+    "@sanity/client": "^5.4.2",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.1",
+    "openai": "^3.2.1",
+    "snoowrap": "^1.15.2",
+    "twitter-lite": "^1.1.0",
+    "unsplash-js": "^7.0.15"
+  }
+}
