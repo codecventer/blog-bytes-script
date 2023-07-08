@@ -1,1 +1,1 @@
-# blog-bytes-script-public
+# readme coming soon
