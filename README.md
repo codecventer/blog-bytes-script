@@ -21,6 +21,11 @@ Clone the repo:
 git clone https://github.com/codecventer/blog-bytes-script.git
 ```
 
+Navigate to project:
+```
+cd blog-bytes-script
+```
+
 Install packages:
 ```
 npm install
