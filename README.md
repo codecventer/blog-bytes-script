@@ -21,6 +21,8 @@ Clone the repo:
 git clone https://github.com/codecventer/blog-bytes-script.git
 ```
 
+**Insert your own API keys and secret keys in .env**
+
 Navigate to project:
 ```
 cd blog-bytes-script
