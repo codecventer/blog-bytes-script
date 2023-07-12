@@ -1,6 +1,9 @@
 # BlogBytes Script
 
-The motivation behind this project was to completely automate a fully functional blog site. This script allows you to:
+The motivation behind this project was to completely automate a fully functional blog site that includes user comments. You can make use of the following Next.js template as a way to host your blog site:
+https://vercel.com/templates/next.js/blog-nextjs-sanity
+
+This script allows you to:
 
 - Generate an article using **ChatGPT** about a popular topic in the current week
 - Fetch a related image from **Unsplash** to use as a cover image
