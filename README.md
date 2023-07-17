@@ -7,8 +7,8 @@ This script allows you to:
 
 - Generate an article using **ChatGPT** about a popular topic in the current week
 - Fetch a related image from **Unsplash** to use as a cover image
-- Post the article with its related cover image to a Sanity.io dataset
-- Post the article URL to Twitter
+- Post the article with its related cover image to a **Sanity.io** dataset
+- Post the article URL to **Twitter**
 - Post the article URL to your own sub-reddit and related sub-reddits
 - Send an email notification of the new article to the admin user
 
