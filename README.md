@@ -15,7 +15,7 @@ This script allows you to:
 This script can be executed as a scheduled AWS Lambda function in order to run the script on a daily basis.
 ## Tech Stack
 
-**Client:** ChatGPT, Unsplash, Sanity.io, Twitter, Reddit, AWS SES
+**Clients:** ChatGPT, Unsplash, Sanity.io, Twitter, Reddit, AWS SES
 
 
 ## Usage/Examples
