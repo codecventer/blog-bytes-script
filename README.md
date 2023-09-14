@@ -1,6 +1,6 @@
 # BlogBytes Script
 
-The motivation behind this project was to completely automate a fully functional blog site that includes user comments. For hosting the blog site, you can make use of my BlogBytes repo: https://github.com/codecventer/blog-bytes. Alternatively, you can create your own by using the following Next.js template:
+The motivation behind this project was to completely automate a fully functional blog site. You can create your own blog by using the following Next.js template:
 https://vercel.com/templates/next.js/blog-nextjs-sanity
 
 This script allows you to:
