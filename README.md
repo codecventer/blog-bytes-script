@@ -12,7 +12,7 @@ This script allows you to:
 - Post the article URL to your own sub-reddit and related sub-reddits
 - Send an email notification of the new article to the admin user
 
-This script is designed to run as a scheduled AWS Lambda function in order to run the script on a daily basis.
+This script can be executed as a scheduled AWS Lambda function in order to run the script on a daily basis.
 ## Tech Stack
 
 **Client:** ChatGPT, Unsplash, Sanity.io, Twitter, Reddit, AWS SES
